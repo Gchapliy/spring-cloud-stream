@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/filter-service/filter-service.iml" filepath="$PROJECT_DIR$/filter-service/filter-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/publisher-service/publisher-service.iml" filepath="$PROJECT_DIR$/publisher-service/publisher-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/subscriber-service/subscriber-service.iml" filepath="$PROJECT_DIR$/subscriber-service/subscriber-service.iml" />
     </modules>
